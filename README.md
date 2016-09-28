@@ -1,2 +1,2 @@
 # sass-template
-sass-template for quick start
+sass-template for quick markup start
